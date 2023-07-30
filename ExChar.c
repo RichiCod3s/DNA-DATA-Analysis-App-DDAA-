@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// DNA APP
+
 
 //Functions
 int display_menu();
