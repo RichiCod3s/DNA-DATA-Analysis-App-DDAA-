@@ -325,7 +325,7 @@ int sort_chromsome_data()
 
         }
 
-        //sort the chromosome data - the sorted records should be stored in an array named “chromosome_data”
+        //sort the chromosome data - the sorted records should be stored in an array named Â“chromosome_dataÂ”
         // loop to control number of passes
         for (pass = 1; pass < dnaCount; ++pass) {
 
